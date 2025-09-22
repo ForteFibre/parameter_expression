@@ -2,8 +2,8 @@
 Changelog for package parameter_expression
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2025-09-23)
+------------------
 * Merge pull request `#1 <https://github.com/ForteFibre/parameter_expression/issues/1>`_ from ForteFibre/fix/pkg-config
   Add pkg-config as build dependencies
 * Add pkg-config as build dependencies
